@@ -1,1 +1,1 @@
-# city-of-moorehead-housing-parser
+# Parser to get housing details
